@@ -55,5 +55,8 @@ return require('packer').startup(function(use)
     use('tpope/vim-commentary')
     use('preservim/nerdtree')
     use('caenrique/buffer-term.nvim')
+    use('vim-airline/vim-airline')
+    use('github/copilot.vim')
+    use('Raimondi/delimitMate')
 
 end)
