@@ -79,11 +79,6 @@ _G.packer_plugins = {
     path = "/home/adityaparmar/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
-  ["buffer-term.nvim"] = {
-    loaded = true,
-    path = "/home/adityaparmar/.local/share/nvim/site/pack/packer/start/buffer-term.nvim",
-    url = "https://github.com/caenrique/buffer-term.nvim"
-  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/adityaparmar/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
@@ -177,6 +172,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/adityaparmar/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["toggleterm.nvim"] = {
+    loaded = true,
+    path = "/home/adityaparmar/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
+    url = "https://github.com/akinsho/toggleterm.nvim"
   },
   undotree = {
     loaded = true,
