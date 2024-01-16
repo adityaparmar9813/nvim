@@ -53,7 +53,6 @@ return require('packer').startup(function(use)
         requires = {'nvim-tree/nvim-web-devicons'}
     }
     use('tpope/vim-commentary')
-    use('preservim/nerdtree')
     use('vim-airline/vim-airline')
     use('github/copilot.vim')
     use('Raimondi/delimitMate')
