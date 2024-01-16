@@ -58,5 +58,6 @@ return require('packer').startup(function(use)
     use('github/copilot.vim')
     use('Raimondi/delimitMate')
     use('akinsho/toggleterm.nvim')
+    use('pocco81/auto-save.nvim')
 
 end)

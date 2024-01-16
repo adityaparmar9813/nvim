@@ -52,3 +52,4 @@ local htop = Terminal:new({cmd = "htop", hidden = true})
 function _HTOP_TOGGLE()
     htop:toggle()
 end
+
